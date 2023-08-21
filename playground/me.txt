@@ -1,2 +1,0 @@
-Name:Ujjwal Sharma 
-Skills :- MERN Tech Stack , Tailwind CSS , Typescript , Next js , Bootstrap , SQL , Redux
